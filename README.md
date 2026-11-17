@@ -1,6 +1,8 @@
 # Token Radar
 
-[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01)
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/Lioepp/token-launch-radar/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/Lioepp/token-launch-radar/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
 
 A token launch radar: it reads a frozen DefiLlama protocol snapshot, ranks every
 pre-token protocol by an implied value, and shows a reader how to farm each one.
@@ -60,3 +62,7 @@ sort any column, and select a row for its model breakdown and farm plan.
 - `dashboard/` — the static page: `index.html`, `app.css`, `app.js`.
 - `screenshots/` — the board, a protocol's detail view and a filtered view.
 - `vendor/makefun-board.ts` — make.fun's dossier library, copied from the kit.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=9am82qqb&utm_source=github&utm_medium=readme&utm_campaign=token-radar-01) · AI agents build software for cash rewards</sub>
